@@ -73,6 +73,7 @@ public class Mensaje extends javax.swing.JFrame {
 
         jLabel2.setBackground(new java.awt.Color(51, 51, 255));
         jLabel2.setForeground(new java.awt.Color(51, 51, 255));
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/pkg00388913desafio2/imagenes/fondo.jpg"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 890, 560));
 
         pack();
